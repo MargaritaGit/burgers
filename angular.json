@@ -44,7 +44,7 @@
                 }
               ],
               "outputHashing": "all",
-              "baseHref": "/burgers/"
+              "baseHref": "./"
             },
             "development": {
               "buildOptimizer": false,

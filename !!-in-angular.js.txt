@@ -1,0 +1,10 @@
+"outputHashing": "all",
+              "baseHref": ""
+
+
+or
+
+
+
+"outputHashing": "all",
+              "baseHref": "./"
